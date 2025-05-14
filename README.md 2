@@ -1,0 +1,25 @@
+#BMI-Calculator
+
+Hi, this is a small project which use to calculate the Body Mass Index(BMI). 
+The formula to calculate BMI is weight/height*height
+I using Python to make it and below is its result:
+Welcome to the BMI Calculator!
+Enter your weight in kg: (exp 63)
+Enter your height in m: (exp 1.60)
+Your BMI is: 24.61
+You are normal weight.
+
+#Preview
+(You can do it in Python to calculate the BMI)
+
+##How to Run
+1. Install Python(recommend version 3.13)
+2. Run the code
+
+##Key Technologies
+-Python core programming language
+-Pycharm IDE used for development
+-Command Line Interface(CLI) User interaction method
+
+##Author
+@LKM07
